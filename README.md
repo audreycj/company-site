@@ -1,13 +1,13 @@
 # company-site
-A sample company website
+live website: https://audreycj.github.io/company-site/
+
 This was a formative assessment for our IT103P (Web Programming) course during my 2nd year as a Computer Science student.
+
 We were given the following instructions:
 
 -------
 
 You are tasked to create your own company website. You and your partner should come up with a company that provides a service. (Graphic design, film making, game development, etc.).
-
-![image](https://user-images.githubusercontent.com/68633976/215748576-9c4b02c3-1a2f-478d-b6a9-f8adb8091c20.png)
 
 Samples: 
 - https://nuxify.tech
